@@ -1,0 +1,6 @@
+module Pods_padrao {
+  umbrella header "Pods-padrao-umbrella.h"
+
+  export *
+  module * { export * }
+}

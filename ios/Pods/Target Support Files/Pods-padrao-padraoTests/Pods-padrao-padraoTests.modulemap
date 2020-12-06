@@ -1,0 +1,6 @@
+module Pods_padrao_padraoTests {
+  umbrella header "Pods-padrao-padraoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
